@@ -11,11 +11,11 @@ Imagine working for a real estate development company. Company wants to value an
 To accomplish task we will:
 
 1. Analyse and explore the Boston house price data
-2. Split your data for training and testing
+2. Split data for training and testing
 3. Run a Multivariable Regression
-4. Evaluate how your model's coefficients and residuals
-5. Use data transformation to improve your model performance
-6. Use your model to estimate a property price
+4. Evaluate model's coefficients and residuals
+5. Use data transformation to improve model performance
+6. Use model to estimate a property price
 
 ### Understand House Price Dataset
 
