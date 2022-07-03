@@ -4,7 +4,7 @@ Imagine working for a real estate development company. Company wants to value an
 * The number of rooms
 * The distance to employment centres
 * How rich or poor the area is
-* How many students there are per teacher in local schools etc
+* How many students there are per teacher in local schools etc.
 
 <img src=https://i.imgur.com/b5UaBal.jpg height=350>
 
