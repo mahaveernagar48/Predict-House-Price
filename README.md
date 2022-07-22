@@ -3,7 +3,7 @@
 Imagine working for a real estate development company. Company wants to value any residential project before they start. Our task with building a model that can provide a price estimate based on a home's characteristics like:
 * The number of rooms
 * The distance to employment centres
-* How rich or poor the area is
+* How rich or poor the area is.
 * How many students there are per teacher in local schools etc.
 
 <img src=https://i.imgur.com/b5UaBal.jpg height=350>
